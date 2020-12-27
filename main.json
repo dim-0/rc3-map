@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/freedom.json#start_anarchist-village}"
+                 "value":"{<lobby>\/maps\/freedom.json#start_anarchist-village}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -589,7 +589,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"{<lobby>\/freedom.json#start_anarchist-village}"
+                         "value":"{<lobby>\/maps\/freedom.json#start_anarchist-village}"
                         }],
                  "type":"EXIT"
                 }, 
