@@ -585,6 +585,12 @@
          "tiles":[
                 {
                  "id":0,
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"{<lobby>\/freedom.json#start_anarchist-village}"
+                        }],
                  "type":"EXIT"
                 }, 
                 {
