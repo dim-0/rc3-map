@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/freedom.json#start_anarchist-village}"
+                 "value":"{<lobby>_\/global\/lobby.maps.at.rc3.world\/maps\/freedom.json#start_anarchist-village}"
                 }],
          "type":"tilelayer",
          "visible":true,
