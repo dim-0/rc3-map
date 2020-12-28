@@ -402,28 +402,26 @@
         }, 
         {
          "draworder":"topdown",
-         "id":47,
+         "id":49,
          "name":"signtext",
          "objects":[
                 {
-                 "height":18,
-                 "id":2,
+                 "height":19,
+                 "id":3,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
                      "color":"#ffffff",
-                     "fontfamily":"Courier 10 Pitch",
-                     "pixelsize":13,
-                     "text":"silent!",
+                     "halign":"center",
+                     "text":"silent",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":55.5885416666667,
-                 "x":309.705729166667,
-                 "y":300.166666666667
+                 "width":81.921875,
+                 "x":295.705729166667,
+                 "y":298.833333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -634,8 +632,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":48,
- "nextobjectid":3,
+ "nextlayerid":50,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
